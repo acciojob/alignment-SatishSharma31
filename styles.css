@@ -1,3 +1,5 @@
 /*  your css code here. If applicable */
 body { text-align:center; font-family:poppins;}
 table td { padding:5px; height:5px;}
+.green { background-color: green;}
+.blue { background-color: blue;}

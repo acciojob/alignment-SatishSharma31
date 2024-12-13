@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body { text-align:center; font-family:poppins;}
-td { padding:5px; height:5px;}
+td { padding:1px; height:5px;}
 .green { background-color: green;}
 .blue { background-color: blue;}
 table  {border: 1px solid #000; spacing:1px; cell-padding:1px;}
